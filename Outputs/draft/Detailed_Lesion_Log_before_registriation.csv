@@ -1,0 +1,33 @@
+Tracking_ID,Status,Size_T1_Ref,Size_T2,Original_T2_ID,T2_ID
+1,Disappeared,120,0,,N/A
+2,Disappeared,346,0,,N/A
+3,Stable,55,66,1.0,3
+4,Disappeared,36,0,,N/A
+5,Shrunk,101,37,2.0,5
+7,Disappeared,32,0,,N/A
+9,Shrunk,28,24,4.0,9
+10,Disappeared,74,0,,N/A
+11,Disappeared,61,0,,N/A
+12,Disappeared,37,0,,N/A
+14,Disappeared,151,0,,N/A
+16,Disappeared,90,0,,N/A
+17,"Merged (from [np.int32(6), np.int32(8), np.int32(17), np.int32(27), np.int32(32)])",N/A,18582,5.0,17
+18,Shrunk,82,24,6.0,18
+19,Disappeared,27,0,,N/A
+20,Enlarged,2162,3102,9.0,20
+21,"Merged (from [np.int32(13), np.int32(15), np.int32(21)])",N/A,3416,8.0,21
+22,Disappeared,62,0,,N/A
+23,Enlarged,1228,3680,11.0,23
+24,Disappeared,44,0,,N/A
+25,"Merged (from [np.int32(25), np.int32(26)])",N/A,3571,12.0,25
+28,Stable,94,96,17.0,28
+29,Enlarged,40,67,15.0,29
+30,Shrunk,133,110,18.0,30
+31,Enlarged,72,127,19.0,31
+33,New,N/A,44,3.0,33
+34,New,N/A,27,7.0,34
+35,New,N/A,67,10.0,35
+36,New,N/A,48,13.0,36
+37,New,N/A,61,14.0,37
+38,New,N/A,29,16.0,38
+39,New,N/A,286,20.0,39

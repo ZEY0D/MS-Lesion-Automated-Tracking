@@ -1,0 +1,13 @@
+{
+  "Baseline_Count": 1,
+  "Followup_Count": 1,
+  "New_Lesions": 0,
+  "Disappeared_Lesions": 0,
+  "New_IDs": [],
+  "Disappeared_IDs": [],
+  "Sizes_T2": {
+    "1": 2888873
+  },
+  "labeled_baseline_path": "D:\\MS_Lesion_Tracking\\Outputs\\analysis_1765387948671\\labeled_baseline.nii.gz",
+  "labeled_followup_path": "D:\\MS_Lesion_Tracking\\Outputs\\analysis_1765387948671\\labeled_followup.nii.gz"
+}

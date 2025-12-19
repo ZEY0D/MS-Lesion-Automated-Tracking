@@ -1,0 +1,14 @@
+{
+  "Baseline_Count": 1,
+  "Followup_Count": 1,
+  "New_Lesions": 0,
+  "Disappeared_Lesions": 0,
+  "New_IDs": [],
+  "Disappeared_IDs": [],
+  "Sizes_T2": {
+    "1": 2651953
+  },
+  "labeled_baseline_path": "labeled_baseline.nii.gz",
+  "labeled_followup_path": "labeled_followup.nii.gz",
+  "montage_image": "montage_visualization.png"
+}
