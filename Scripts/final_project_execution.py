@@ -8,8 +8,8 @@ from lesion_tracker import track_longitudinal
 
 # --- CONFIGURATION ---
 predictions_dir = r"../Outputs"
-file_t1 = os.path.join(predictions_dir, "Case01_S1.nii")
-file_t2 = os.path.join(predictions_dir, "Case01_S2.nii")
+file_t1 = os.path.join(predictions_dir, "Case01_S1_19.nii")
+file_t2 = os.path.join(predictions_dir, "Case01_S2_19.nii")
 # file_t2 = os.path.join(predictions_dir, "Case01_S2_Aligned.nii")
 
 

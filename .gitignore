@@ -3,15 +3,21 @@
 # ===============================
 Raw_Data/
 nnUNet_raw/
-
-# ===============================
-# nnU-Net generated folders
-# ===============================
 nnUNet_preprocessed/
 nnUNet_results/
 
 # ===============================
-# Python / ML
+# GENERATED OUTPUTS
+# ===============================
+Outputs/
+Debug_Output/
+*.nii
+*.nii.gz
+*.png
+*.csv
+
+# ===============================
+# Python
 # ===============================
 __pycache__/
 *.pyc
@@ -30,9 +36,6 @@ venv/
 Thumbs.db
 
 # ===============================
-# Models & logs
+# Archives
 # ===============================
-*.log
-*.ckpt
-*.pt
-*.pth
+*.zip

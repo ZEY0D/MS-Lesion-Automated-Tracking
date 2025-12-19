@@ -14,8 +14,9 @@ def get_sorted_labels(binary_mask, min_voxels=20):
     Returns the labeled mask and a dictionary of {ID: Size_in_Voxels}.
     """
     # 1. Clean Noise 
-    """ our "remove_small_objects" scans the 3D volume. If it finds a cluster of "on" pixels smaller than min_voxels (20),
-      it flips them to 0 (background)"""
+    """  our "remove_small_objects" scans the 3D volume. If it finds a 
+         cluster of "on" pixels smaller than min_voxels (20),
+         it flips them to 0 (background)"""
     bool_mask = binary_mask.astype(bool)
     clean_mask = remove_small_objects(bool_mask, min_size=min_voxels, connectivity=2)
     
